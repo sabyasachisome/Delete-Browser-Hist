@@ -1,0 +1,12 @@
+#conf files
+*.ini
+
+#notebook files
+*.ipynb
+
+#notebook checkpoint dirs
+*.ipynb_checkpoints
+
+#data dirs
+History
+History*
